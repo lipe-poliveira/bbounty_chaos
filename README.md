@@ -3,9 +3,13 @@
 Modo de Utilização:
 
 Certifique-se de ter o programa 'jq' instalado. Caso não tenha, instale-o com o gerenciador de pacotes apropriado para o seu sistema operacional.
+
 Baixe o script 'bbounty_chaos.sh'.
+
 No terminal, conceda permissões de execução ao script usando o comando chmod +x bbounty_chaos.sh.
+
 Execute o script com ./bbounty_chaos.sh e aguarde até que o processo de download e organização dos arquivos seja concluído.
+
 (:
 
 # English:
