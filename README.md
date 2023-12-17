@@ -1,5 +1,5 @@
 # bbounty_chaos
-README
+READ_ME
 # PT-BR
 
 Este script em Bash realiza o download e processamento de um arquivo JSON contendo informações sobre diferentes plataformas e recompensas por bugs. Com base nos dados do arquivo JSON, o script cria pastas correspondentes para plataformas específicas, como 'bugcrowd', 'hackerone', 'yeswehack', 'private' e 'nobounty'. Em seguida, realiza o download de arquivos ZIP específicos para cada categoria de acordo com as condições de plataforma e recompensa indicadas no arquivo JSON.
