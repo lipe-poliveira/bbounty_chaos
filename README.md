@@ -17,8 +17,11 @@ Execute o script com ./bbounty_chaos.sh e aguarde até que o processo de downloa
 Usage Guide:
 
 Ensure you have the 'jq' program installed. If not, install it using the appropriate package manager for your operating system.
+
 Download the 'bbounty_chaos.sh' script.
+
 In the terminal, grant execution permissions to the script using the command chmod +x bbounty_chaos.sh.
+
 Run the script with ./bbounty_chaos.sh and wait for the download and organization of files to complete.
 (:
 
